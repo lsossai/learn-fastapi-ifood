@@ -2,7 +2,7 @@
 Tutorial feito pras quartas de desenvolvimento
 
 ## Requisitos
-* Python
+* Python 3.6+
 * Docker
 
 Primeiro vamos instalar os requisitos no arquivo `requirements.txt`
